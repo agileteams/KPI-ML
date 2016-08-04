@@ -1,0 +1,6 @@
+{
+  "name": "KPI-ML",
+  "tagline": "Work in progress on materials for MESA KPI-ML",
+  "body": "### Welcome to my KPI-ML fork.\r\nKPI-ML is an XML implementation of the ISO 22400 standard for Automation systems integration - Key performance indicators (KPIs) for manufacturing operations management. This fork is where I work on enhancements and revisions to the [MESA KPI-ML standard](http://www.mesa.org/en/KPIML.asp), and particularly on making software implementations easier in C# and Java. See the [MESA GitHub site](https://github.com/MESAInternational/KPI-ML) for official releases.\r\n\r\n### Authors and Contributors\r\nI collaborate mainly with @Emers, @Dennis-Brandl, and @JoeDo on the [MESA XML Committee](http://www.mesa.org/en/committeeactivities/xmlcommittee.asp), and with others on the [MESA APM (Asset Performance Management) Committee](http://www.mesa.org/en/modelstrategicinitiatives/APM.asp). \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
